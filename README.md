@@ -16,4 +16,8 @@ This will be a mock up of a banking website that we would use everyday. Create t
 8. Create the second css file stylesheet. This will be used to hold the reuasble css styles.
 9. Begin formatting the beginning html file.
 10. Set all the links and the meta tags to begin creating the web page. 
-11. 
+11. Review the content to see how the client would like the site to look. How would the like the structure and interactivity to the pages.
+12. Start with the hero/ jumbotron section followed by the navbar section. Once those are formatted. 
+13. Create the content section. Once we have the base structure of the webpage set. Create some styling.
+14. Copy the link for the font style that is requested for the client build. Use of google fonts to get the font styles.
+15. 
