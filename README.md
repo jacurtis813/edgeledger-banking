@@ -13,4 +13,7 @@ This will be a mock up of a banking website that we would use everyday. Create t
 5. Format the html file for the project build.
 6. Create the stylesheet/ css file.
 7. Copy all images into the project. Create a file tree for the images within the project.
-8. 
+8. Create the second css file stylesheet. This will be used to hold the reuasble css styles.
+9. Begin formatting the beginning html file.
+10. Set all the links and the meta tags to begin creating the web page. 
+11. 
