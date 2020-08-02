@@ -6,3 +6,7 @@ Continue self-taught. Create banking website and making it mobile responsive. Co
 This will be a mock up of a banking website that we would use everyday. Create the website version and make the site mobile responsive. During the build we will create a logged and detailed timeline of what we are creating, why we are creating that for the website, and how it will be useful to the user when using the site. 
 
 ## Breakdown:
+1. Begin by setting up the outline of the content. 
+2. Create the html file to begin the project. 
+3. Create the assets folder to hold the css folder and the images folder.
+4. Create the image and the css folder.
