@@ -10,3 +10,7 @@ This will be a mock up of a banking website that we would use everyday. Create t
 2. Create the html file to begin the project. 
 3. Create the assets folder to hold the css folder and the images folder.
 4. Create the image and the css folder.
+5. Format the html file for the project build.
+6. Create the stylesheet/ css file.
+7. Copy all images into the project. Create a file tree for the images within the project.
+8. 
