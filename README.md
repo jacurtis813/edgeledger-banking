@@ -36,3 +36,5 @@ This will be a mock up of a banking website that we would use everyday. Create t
 28. Structure the second portion of the main section content. Complete the structure and begin creating the style.
 29. Complete both the structure of the second portion for the main section and the styling. 
 30. Test and run all the code that we have created. Test that all components work as designed.
+31. Now, work on the cases and the blog section content for the webpage. Start with the structure first.
+32. Start the structure of the next section of content. Save changes. Come back to the project later.
