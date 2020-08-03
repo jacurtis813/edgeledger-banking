@@ -32,3 +32,5 @@ This will be a mock up of a banking website that we would use everyday. Create t
 24. Create the comments within the css file. Give an organized workflow. Correct spacing and indentation.
 25. Complete the structure for the main section content. Use icons to fill the white space around the content. In all three sub-sections of the main section content.
 26. Create the styles for the icons that we have chose to use. Begin creating some basic styles for this section. Save all changes.
+27. Complete the style for the first portion of the main section of content. Start next portion.
+28. Structure the second portion of the main section content. Complete the structure and begin creating the style. 

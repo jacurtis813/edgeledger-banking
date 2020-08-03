@@ -1,6 +1,6 @@
 /*this stylesheet will be used for reusable css styles*/ 
 
-/*text styles*/
+/*text styles- all*/
 .text-primary {
     color: #28a745;
 }
@@ -8,7 +8,9 @@
 .text-secondary {
     color: #0284d0;
 }
+/*----------------------*/
 
+/*button styles- all*/
 .btn {
     cursor: pointer;
     display: inline-block;
@@ -42,3 +44,20 @@
     background: #f4f4f4;
     color: #333;
 }
+/*----------------------*/
+
+/*flex-items styles*/
+.flex-items {
+    display: -webkit-box;
+    display: flex;
+    text-align: center;
+    -webkit-box-pack: center;
+            justify-content: center;
+    
+    height: 100%;
+}
+
+.flex-items .direct {
+    padding: 20px;
+}
+/*----------------------*/
