@@ -26,3 +26,5 @@ This will be a mock up of a banking website that we would use everyday. Create t
 18. Create the styles for the hero section of the landing page/ home page of the banking website.
 19. Create the reusable style for the button on the landing page within the hero section.
 20. Create the overlay for the main hero image on the landing page. There are two ways of doing this, we can lay out the background content with either two background styles in the smae line or we can use the psuedo selector such as the the ::before class selector. 
+21. Continue creating the banking site project build. Left off after the hero section. Now we will begin creating the main content section of the landing page for the full site.
+22. Build the structure for the main section of content. Fill the content in the area as requested. 
