@@ -23,3 +23,6 @@ This will be a mock up of a banking website that we would use everyday. Create t
 15. Begin with styling the opening content of the home page. Using both stylesheets. 
 16. Complete the basic styling for the navbar. Complete this section with the hero image as well.
 17. Save all changes and additions at this time. Test and run the code that we have create at this time.
+18. Create the styles for the hero section of the landing page/ home page of the banking website.
+19. Create the reusable style for the button on the landing page within the hero section.
+20. Create the overlay for the main hero image on the landing page. There are two ways of doing this, we can lay out the background content with either two background styles in the smae line or we can use the psuedo selector such as the the ::before class selector. 
