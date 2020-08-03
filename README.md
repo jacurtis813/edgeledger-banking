@@ -30,3 +30,5 @@ This will be a mock up of a banking website that we would use everyday. Create t
 22. Build the structure for the main section of content. Fill the content in the area as requested.
 23. Create the comments within the html file. Give a proper and organized workflow. Correct the formatting within the html file.
 24. Create the comments within the css file. Give an organized workflow. Correct spacing and indentation.
+25. Complete the structure for the main section content. Use icons to fill the white space around the content. In all three sub-sections of the main section content.
+26. Create the styles for the icons that we have chose to use. Begin creating some basic styles for this section. Save all changes.
