@@ -3,6 +3,7 @@
 /*google fonts import link for the font styling*/
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
 
+
 /*basic html styling*/
 * {
     box-sizing: border-box;
@@ -38,6 +39,8 @@ p {
 img {
     width: 100%;
 }
+/*----------------------*/
+
 
 /*navbar styling*/
 .navbar {
@@ -75,9 +78,10 @@ img {
 .navbar .logo {
     font-weight: 400;
 }
+/*----------------------*/
+
 
 /*header styling*/
-
 .hero {
     background: -webkit-gradient(linear, left top, left bottom, from(rgba(39, 39, 39, 0.5)), to(rgb(39, 39, 39))), url('../images/home/showcase.jpg') no-repeat center center/cover;
     background: linear-gradient(rgba(39, 39, 39, 0.5), rgb(39, 39, 39)), url('../images/home/showcase.jpg') no-repeat center center/cover;
@@ -125,3 +129,4 @@ img {
 .hero * {
     z-index: 10;
 */
+/*----------------------*/
