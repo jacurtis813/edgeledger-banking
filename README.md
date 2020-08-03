@@ -20,4 +20,6 @@ This will be a mock up of a banking website that we would use everyday. Create t
 12. Start with the hero/ jumbotron section followed by the navbar section. Once those are formatted. 
 13. Create the content section. Once we have the base structure of the webpage set. Create some styling.
 14. Copy the link for the font style that is requested for the client build. Use of google fonts to get the font styles.
-15. 
+15. Begin with styling the opening content of the home page. Using both stylesheets. 
+16. Complete the basic styling for the navbar. Complete this section with the hero image as well.
+17. Save all changes and additions at this time. Test and run the code that we have create at this time.
