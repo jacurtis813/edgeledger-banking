@@ -38,3 +38,4 @@ This will be a mock up of a banking website that we would use everyday. Create t
 30. Test and run all the code that we have created. Test that all components work as designed.
 31. Now, work on the cases and the blog section content for the webpage. Start with the structure first.
 32. Start the structure of the next section of content. Save changes. Come back to the project later.
+33. Create a new line within the readme file to make sure that the path connection is still working. Save and commit.
