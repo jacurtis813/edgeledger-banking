@@ -39,3 +39,6 @@ This will be a mock up of a banking website that we would use everyday. Create t
 31. Now, work on the cases and the blog section content for the webpage. Start with the structure first.
 32. Start the structure of the next section of content. Save changes. Come back to the project later.
 33. Create a new line within the readme file to make sure that the path connection is still working. Save and commit.
+34. Continue the project build. Begin the structure of the cases content within the index.html file. 
+35. Build the basic structure of the cases section. Next use the css style selectors to create the layout we are looking for. 
+36. Create the images to layout like an image gallery. Save all changes, update and commit.
