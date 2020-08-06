@@ -42,3 +42,6 @@ This will be a mock up of a banking website that we would use everyday. Create t
 34. Continue the project build. Begin the structure of the cases content within the index.html file. 
 35. Build the basic structure of the cases section. Next use the css style selectors to create the layout we are looking for. 
 36. Create the images to layout like an image gallery. Save all changes, update and commit.
+37. Continue to create the images section within the main page. We will use the flex property to achieve the gallery look.
+38. Once the structure and the style are set for the cases section, begin the next section, build the structure.
+39. Complete all the alt tags for all photos within the page. 
