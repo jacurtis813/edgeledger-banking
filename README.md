@@ -47,3 +47,6 @@ This will be a mock up of a banking website that we would use everyday. Create t
 39. Complete all the alt tags for all photos within the page. Re-edit the format to find the bug within my code.
 40. Completet the structure and the style for the blog content section of home page/ landing page. Create the style using the flex-reverse property style.
 41. Begin creating the structure for he next section of content. This section will hold the content of the our team conten.
+42. Complete both the structure and the styling for the team member section of the main page. Save all changes.
+43. Test and run the code that we have created for all new content. Begin creating the structure for the next section of content. 
+44. Next section of content will be the 
