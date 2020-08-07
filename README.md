@@ -66,4 +66,4 @@ This will be a mock up of a banking website that we would use everyday. Create t
 58. Create and set the main structure for the blog.html file. Creating the header and the footer to remain the same. 
 59. Make sure that all the links will link back to the homepage, edit the format for href on all buttons.
 60. Begin creating the structure of the blog.html webpage. This page will host the content of the blogs posted by our users.
-61. 
+61. Test and run the code that we have created for both of the html files. Update the readme file to follow.
