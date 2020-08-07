@@ -52,4 +52,7 @@ This will be a mock up of a banking website that we would use everyday. Create t
 44. Next section of content will be for the contact section of the page. We can build this section reusing the structure from the solutions section.
 45. Begin the styling for the contact section of the weboage. First, apply the images and the content needed.
 46. Create the form within the contact section of the main page. Create all styling for these sections of content.
-47. 
+47. Create the structure for the footer. Setting the copyrights and the setting the links using icons for the social media following.
+48. Begin creating  the style for the footer and for the icons as well as all the text within the footer section- main page.
+49. Start with, styling the size of the footer. Then set the styles for the icons and text.
+50. Test and run all the code that we have created for these sections. Save all changes.
