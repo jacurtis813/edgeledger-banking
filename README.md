@@ -44,4 +44,6 @@ This will be a mock up of a banking website that we would use everyday. Create t
 36. Create the images to layout like an image gallery. Save all changes, update and commit.
 37. Continue to create the images section within the main page. We will use the flex property to achieve the gallery look.
 38. Once the structure and the style are set for the cases section, begin the next section, build the structure.
-39. Complete all the alt tags for all photos within the page. 
+39. Complete all the alt tags for all photos within the page. Re-edit the format to find the bug within my code.
+40. Completet the structure and the style for the blog content section of home page/ landing page. Create the style using the flex-reverse property style.
+41. Begin creating the structure for he next section of content. This section will hold the content of the our team conten.
