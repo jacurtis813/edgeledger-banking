@@ -58,3 +58,8 @@ This will be a mock up of a banking website that we would use everyday. Create t
 50. Test and run all the code that we have created for these sections. Save all changes.
 51. Create a more organized look within the html. Applied commenting and proper formatting to the content. 
 52. Create a more organized look with the css files. Applied double spacing between start and ending selectors. Applied more comments to the styling sections.
+53. Begin the media query process. Formatting the structure and the styles to fit specific screen sizes.
+54. Must stop for a moment to research how to make the items back into a column rather than using the row. Found that we can create the column using flex-direction.
+55. Continue smaller screen size builds. Complete the smaller screen size build using multiple flex properties and values to create the styles.
+56. Make sure to take a further or in depth course understanding on both the flex-grid and the flex-box use. 
+57. 
