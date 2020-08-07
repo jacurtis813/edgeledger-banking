@@ -49,4 +49,7 @@ This will be a mock up of a banking website that we would use everyday. Create t
 41. Begin creating the structure for he next section of content. This section will hold the content of the our team conten.
 42. Complete both the structure and the styling for the team member section of the main page. Save all changes.
 43. Test and run the code that we have created for all new content. Begin creating the structure for the next section of content. 
-44. Next section of content will be the 
+44. Next section of content will be for the contact section of the page. We can build this section reusing the structure from the solutions section.
+45. Begin the styling for the contact section of the weboage. First, apply the images and the content needed.
+46. Create the form within the contact section of the main page. Create all styling for these sections of content.
+47. 
