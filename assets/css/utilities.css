@@ -55,6 +55,7 @@
 }
 /*----------------------*/
 
+
 /*flex-items styles*/
 .flex-items {
     display: -webkit-box;
@@ -70,6 +71,7 @@
     padding: 20px;
 }
 /*----------------------*/
+
 
 /*flex columns styles*/
 .flex-columns.flex-reverse .row {
@@ -136,6 +138,8 @@
 .flex-columns p {
     margin: 20px 0;
 }
+/*----------------------*/
+
 
 /*section header*/
 .section-header {
@@ -174,3 +178,4 @@
     max-width: 25%;
     padding: 0 4px;
 }
+/*----------------------*/

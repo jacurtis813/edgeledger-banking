@@ -131,7 +131,8 @@ img {
 */
 /*----------------------*/
 
-/*icons styling- main section*/
+
+/*icons/ about styling- main section*/
 .icons {
     padding: 30px;
 }
@@ -150,11 +151,13 @@ img {
 }
 /*----------------------*/
 
+
 /*Casese styling- header*/
 .cases img:hover {
     opacity: 0.7;
 }
 /*----------------------*/
+
 
 /*Team styling- header*/
 .team img {
@@ -167,6 +170,7 @@ img {
 /*----------------------*/
 
 
+/*form styling- header*/
 .callback-form {
     width: 100%;
     padding: 20px 0;
@@ -196,7 +200,10 @@ img {
     padding: 12px 0;
     margin-top: 20px;
 }
+/*----------------------*/
 
+
+/*footer styling*/
 .footer {
     display: -webkit-box;
     display: flex;
@@ -226,3 +233,4 @@ img {
 .footer a i {
     margin: 0 30px;
 }
+/*----------------------*/

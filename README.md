@@ -56,3 +56,5 @@ This will be a mock up of a banking website that we would use everyday. Create t
 48. Begin creating  the style for the footer and for the icons as well as all the text within the footer section- main page.
 49. Start with, styling the size of the footer. Then set the styles for the icons and text.
 50. Test and run all the code that we have created for these sections. Save all changes.
+51. Create a more organized look within the html. Applied commenting and proper formatting to the content. 
+52. Create a more organized look with the css files. Applied double spacing between start and ending selectors. Applied more comments to the styling sections.
