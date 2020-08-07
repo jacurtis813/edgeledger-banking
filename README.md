@@ -62,4 +62,7 @@ This will be a mock up of a banking website that we would use everyday. Create t
 54. Must stop for a moment to research how to make the items back into a column rather than using the row. Found that we can create the column using flex-direction.
 55. Continue smaller screen size builds. Complete the smaller screen size build using multiple flex properties and values to create the styles.
 56. Make sure to take a further or in depth course understanding on both the flex-grid and the flex-box use. 
-57. 
+57. Create the next page for our complete website build. This webpage will be for the blog button on the main page. 
+58. Create and set the main structure for the blog.html file. Creating the header and the footer to remain the same. 
+59. Make sure that all the links will link back to the homepage, edit the format for href on all buttons.
+60. 
