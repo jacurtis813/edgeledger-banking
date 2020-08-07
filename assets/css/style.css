@@ -129,6 +129,12 @@ img {
 .hero * {
     z-index: 10;
 */
+
+.hero.blog {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(39, 39, 39, 0.5)), to(rgb(39, 39, 39))), url('../images/blog/blog.jpg') no-repeat center center/cover;
+    background: linear-gradient(rgba(39, 39, 39, 0.5), rgb(39, 39, 39)), url('../images/blog/blog.jpg') no-repeat center center/cover;
+    height: 30vh;
+}
 /*----------------------*/
 
 
