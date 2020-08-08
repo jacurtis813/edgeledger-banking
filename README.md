@@ -76,3 +76,6 @@ This will be a mock up of a banking website that we would use everyday. Create t
 68. Create the styling for the first blog post, using the full content. Complete the full structure and styling that can be reused.
 69. Complete the full build for the second blog post using the reusable structure and styling from the first blog post format.
 70. Test and run all code. Check that all anchor tags/ links are working as designed. Check that the mobile responsive abilities are working.
+71. Continue the same method to build the third blog post landing page. Create the file and set the base of the file structure.
+72. Format the html file to fit the content of the third blog post. Complete the structure and the styling for all blog posts.
+73. 
