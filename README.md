@@ -72,4 +72,5 @@ This will be a mock up of a banking website that we would use everyday. Create t
 64. Create the next html file named the post.html to hold the section on the read more from the blog posting page.
 65. Edit the blog html content for each blog posting this will help create the full look to the blog that has been posted by each user. Continue.
 66. Create the opneing strucutre to the first post html landing page. Some of the base structure to hold the first blog posting in full content.
-
+67. Complete the post html file to begin the styling portion that we can use both on this file and for the other blog posts.
+68. Create the styling for the first blog post, using the full content. Complete the full structure and styling that can be reused.
