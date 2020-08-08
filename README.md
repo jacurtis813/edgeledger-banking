@@ -81,3 +81,5 @@ This will be a mock up of a banking website that we would use everyday. Create t
 73. Perform all the finishing touches to the page. Making the page a bit more interactive with the user. 
 74. Create the navbar effect using a shorthanded piece of internal javascript that will create the transparency of the navbar onscroll.
 75. Correct the images and the links within the blog.html file. Save all changes.
+76. How to apply a favicon with the landing page. Create the favicon for multiple browser styles and sizing. 
+77. Test and run all the code that we have created for the interactivity of the page and the favicon. 
