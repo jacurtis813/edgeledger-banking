@@ -74,3 +74,5 @@ This will be a mock up of a banking website that we would use everyday. Create t
 66. Create the opneing strucutre to the first post html landing page. Some of the base structure to hold the first blog posting in full content.
 67. Complete the post html file to begin the styling portion that we can use both on this file and for the other blog posts.
 68. Create the styling for the first blog post, using the full content. Complete the full structure and styling that can be reused.
+69. Complete the full build for the second blog post using the reusable structure and styling from the first blog post format.
+70. Test and run all code. Check that all anchor tags/ links are working as designed. Check that the mobile responsive abilities are working.
