@@ -83,3 +83,9 @@ This will be a mock up of a banking website that we would use everyday. Create t
 75. Correct the images and the links within the blog.html file. Save all changes.
 76. How to apply a favicon with the landing page. Create the favicon for multiple browser styles and sizing. 
 77. Test and run all the code that we have created for the interactivity of the page and the favicon. 
+
+## Hosting the WebPage: 
+Perform a video tutorial, on how to both deploy and host the web pages that we are building and creating. Walk through the different types of web hosting and what the pros and cons are of those specific styles of hosting. (further the knowledge of web-dev).
+Main sources that we will use as a beginner will be the static hosting and the shared hosting sites. Further understanding of shared hosting. Perform the walk through tutorial of shared hosting. (inMotion- shared hosting). Perform the static hosting with the github account.
+
+Project Completed. 
