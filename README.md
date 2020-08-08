@@ -70,3 +70,6 @@ This will be a mock up of a banking website that we would use everyday. Create t
 62. Complete both the structure and the style for the blog html landing page. This page holds up to three of the latest user posts.
 63. Once completed with the blog html page. Begin building the links for the post html file. This will link the read more buttons on each blog to carry the user to that blog post.
 64. Create the next html file named the post.html to hold the section on the read more from the blog posting page.
+65. Edit the blog html content for each blog posting this will help create the full look to the blog that has been posted by each user. Continue.
+66. Create the opneing strucutre to the first post html landing page. Some of the base structure to hold the first blog posting in full content.
+
