@@ -67,3 +67,6 @@ This will be a mock up of a banking website that we would use everyday. Create t
 59. Make sure that all the links will link back to the homepage, edit the format for href on all buttons.
 60. Begin creating the structure of the blog.html webpage. This page will host the content of the blogs posted by our users.
 61. Test and run the code that we have created for both of the html files. Update the readme file to follow.
+62. Complete both the structure and the style for the blog html landing page. This page holds up to three of the latest user posts.
+63. Once completed with the blog html page. Begin building the links for the post html file. This will link the read more buttons on each blog to carry the user to that blog post.
+64. Create the next html file named the post.html to hold the section on the read more from the blog posting page.
