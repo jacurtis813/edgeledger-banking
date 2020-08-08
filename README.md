@@ -78,4 +78,6 @@ This will be a mock up of a banking website that we would use everyday. Create t
 70. Test and run all code. Check that all anchor tags/ links are working as designed. Check that the mobile responsive abilities are working.
 71. Continue the same method to build the third blog post landing page. Create the file and set the base of the file structure.
 72. Format the html file to fit the content of the third blog post. Complete the structure and the styling for all blog posts.
-73. 
+73. Perform all the finishing touches to the page. Making the page a bit more interactive with the user. 
+74. Create the navbar effect using a shorthanded piece of internal javascript that will create the transparency of the navbar onscroll.
+75. Correct the images and the links within the blog.html file. Save all changes.
